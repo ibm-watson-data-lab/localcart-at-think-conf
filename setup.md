@@ -31,19 +31,19 @@ Complete the following steps to get set up for the scenarios.
 
 1. Take note of the information for the shared Message Hub service, which distributes the events that drive some of the workshop scenarios
     * **Name**: `clickstream` 
-    * **API key**: `4Xy7RHj24N8v96hBj6vphZVJspYfIh5uGRGFM2NywaHFM1El`
-    * **Brokers**: `kafka02-prod01.messagehub.services.us-south.bluemix.net:9093,kafka01-prod01.messagehub.services.us-south.bluemix.net:9093,kafka04-prod01.messagehub.services.us-south.bluemix.net:9093,kafka03-prod01.messagehub.services.us-south.bluemix.net:9093,kafka05-prod01.messagehub.services.us-south.bluemix.net:9093`
-    * **Username**: `4Xy7RHj24N8v96hB`
-    * **Password**: `j6vphZVJspYfIh5uGRGFM2NywaHFM1El`
+    * **API key**: `rtWLI3VCAhgkVo73pDCJLlc84UHfLKn326rCJERABYGL55LE`
+    * **Brokers**: `kafka05-prod01.messagehub.services.us-south.bluemix.net:9093,kafka02-prod01.messagehub.services.us-south.bluemix.net:9093,kafka04-prod01.messagehub.services.us-south.bluemix.net:9093,kafka01-prod01.messagehub.services.us-south.bluemix.net:9093,kafka03-prod01.messagehub.services.us-south.bluemix.net:9093`
+    * **Username**: `rtWLI3VCAhgkVo73`
+    * **Password**: `pDCJLlc84UHfLKn326rCJERABYGL55LE`
 
 
 ### Scenario: Static data analysis using Python, Apache Spark, and PixieDust
 
-In the project add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-two.ipynb
+In the project add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-think-conf/master/notebooks/localcart-scenario-two.ipynb
 
 ### Scenario: Build a product recommendation engine
 
-In the project add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-three.ipynb
+In the project add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-think-conf/master/notebooks/localcart-scenario-three.ipynb
 
 ### Scenario: Build a revenue dashboard using PixieApps
-In the project add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-four.ipynb
+In the project add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-think-conf/master/notebooks/localcart-scenario-four.ipynb
