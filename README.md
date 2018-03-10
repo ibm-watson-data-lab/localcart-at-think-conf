@@ -1,4 +1,4 @@
-# Workshop: TBD
+# Open lab 8624H: Accelerate Decisions in a Data-First World 
 
 ### Example Scenarios
 
@@ -8,4 +8,4 @@
 
 ### Workshop instructors
 
-* [More information](https://github.ibm.com/ibm-watson-data-lab/localcart-at-think-conf-instructor) (Access restricted)
+* [More information](https://github.ibm.com/ibm-watson-data-lab/think-2018-instructor-information) (Access restricted)
