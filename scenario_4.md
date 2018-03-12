@@ -20,6 +20,12 @@ If you have been assigned a pre-configured user id and password:
  * Open project **8624H**.
  * In the **Assets** tab open notebook **senario-four** by clicking on the pencil icon.
  * Follow the notebook instructions
+ * Note: Use the following Message Hub connection information:
+    * **Name**: `clickstream` 
+    * **API key**: `rtWLI3VCAhgkVo73pDCJLlc84UHfLKn326rCJERABYGL55LE`
+    * **Brokers**: `kafka05-prod01.messagehub.services.us-south.bluemix.net:9093,kafka02-prod01.messagehub.services.us-south.bluemix.net:9093,kafka04-prod01.messagehub.services.us-south.bluemix.net:9093,kafka01-prod01.messagehub.services.us-south.bluemix.net:9093,kafka03-prod01.messagehub.services.us-south.bluemix.net:9093`
+    * **Username**: `rtWLI3VCAhgkVo73`
+    * **Password**: `pDCJLlc84UHfLKn326rCJERABYGL55LE`
 
 If you have not been assigned a pre-configured user id and password:
 
