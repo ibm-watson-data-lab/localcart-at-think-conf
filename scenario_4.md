@@ -18,7 +18,7 @@ Learn how to use streaming analytics to process and aggregate data in real-time 
 If you have been assigned a pre-configured user id and password:
  * Open [IBM Watson Data Platform](https://dataplatform.ibm.com/projects?context=analytics) and log in using the provided credentials.
  * Open project **8624H**.
- * In the **Assets** tab open notebook **senario-two** by clicking on the pencil icon.
+ * In the **Assets** tab open notebook **senario-four** by clicking on the pencil icon.
  * Follow the notebook instructions
 
 If you have not been assigned a pre-configured user id and password:
