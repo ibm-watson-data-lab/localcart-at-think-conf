@@ -8,10 +8,6 @@ Learn how to use streaming analytics to process and aggregate data in real-time 
  * Cloud Object Storage
  * IBM Data Catalog (a Watson Data Platform application)
  * PixieDust
-
-#### Notebook preview
-
- * [Click to preview]()
  
 #### Getting started
 
