@@ -6,10 +6,6 @@ Learn how to create, deploy and consume a Machine Learning model.
 #### Prerequisites
  * Apache Spark service instance with Machine Learning libraries
  * Watson Machine Learning service instance
-
-#### Notebook preview
-
- * [Click to preview]()
  
 #### Getting started
 
